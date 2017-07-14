@@ -10,3 +10,4 @@ putty
 * sudo chmod +x /etc/init.d/resize2fs_once
 * sudo systemctl enable resize2fs_once
 
+image write 이미지를 만들자
